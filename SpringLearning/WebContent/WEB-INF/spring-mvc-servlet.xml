@@ -19,6 +19,7 @@
 		<property name="suffix" value=".jsp" />
 	</bean>
 	
+	
 	<mvc:resources location="/WEB-INF/jsp/" mapping="/jsp/**" />
 	<mvc:annotation-driven />
 	
